@@ -1,0 +1,51 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+35,2026-04-17,CLI004,credito,1247.05,Conta de luz,conta
+36,2026-03-01,CLI005,credito,2946.32,Salário mensal,salario
+14,2026-02-12,CLI003,credito,3354.17,Conta de luz,conta
+31,2026-05-03,CLI001,debito,4081.96,Supermercado,compra
+32,2026-02-05,CLI006,debito,4734.77,Transferência recebida,transferencia
+18,2026-02-19,CLI006,debito,1071.01,Salário mensal,salario
+48,2026-04-10,CLI004,debito,782.44,Conta de luz,conta
+24,2026-04-20,CLI004,debito,4855.68,Streaming,assinatura
+19,2026-04-21,CLI004,credito,1331.75,Streaming,assinatura
+4,2026-05-07,,debito,1110.0,Salário mensal,salario
+42,2026-01-13,CLI006,debito,4004.96,Salário mensal,salario
+25,2026-06-24,CLI001,debito,3845.31,Salário mensal,salario
+2,2026-06-24,CLI005,credito,18857.39,Salário mensal,salario
+46,2026-02-14,CLI004,debito,1076.6,Supermercado,compra
+29,2026-05-25,CLI005,credito,2998.73,Supermercado,compra
+20,2026-06-18,CLI005,debito,3737.6,Supermercado,compra
+1,2026-01-24,CLI003,credito,13348.17,Salário mensal,salario
+40,2026-04-07,CLI001,credito,3298.32,Streaming,assinatura
+28,2026-06-17,CLI005,credito,772.67,Conta de luz,conta
+15,2026-05-21,CLI002,credito,825.38,Salário mensal,salario
+10,2026-03-03,CLI005,debito,4148.73,Streaming,assinatura
+50,2026-01-19,CLI004,credito,293.83,Salário mensal,salario
+30,2026-01-04,CLI003,debito,1204.87,Streaming,assinatura
+45,2026-01-02,CLI006,credito,4845.29,Transferência recebida,transferencia
+13,2026-06-28,CLI001,debito,1397.09,Supermercado,compra
+9,2026-02-24,CLI004,credito,4865.85,Salário mensal,salario
+41,2026-04-14,CLI004,credito,3370.09,Conta de luz,conta
+11,2026-04-28,CLI003,credito,3525.81,Transferência recebida,transferencia
+23,2026-06-06,CLI007,debito,2986.08,Supermercado,compra
+22,2026-05-16,CLI001,credito,4306.9,Supermercado,compra
+7,2026-03-04,CLI001,debito,abc,Supermercado,compra
+17,2026-02-27,CLI001,debito,2011.81,Salário mensal,salario
+21,2026-05-13,CLI003,credito,4986.66,Streaming,assinatura
+34,2026-06-23,CLI002,debito,2000.97,Transferência recebida,transferencia
+27,2026-05-25,CLI002,credito,4353.89,Conta de luz,conta
+49,2026-02-02,CLI005,credito,3742.4,Conta de luz,conta
+abc,2026-01-03,CLI002,credito,2531.72,Salário mensal,salario
+38,2026-03-03,CLI005,credito,1399.6,Salário mensal,salario
+43,2026-02-07,CLI002,debito,709.51,Salário mensal,salario
+37,2026-01-23,CLI006,credito,1152.42,Salário mensal,salario
+8,2026-01-12,CLI007,debito,3022.59,Salário mensal,salario
+26,2026-01-10,CLI004,credito,2274.08,Conta de luz,conta
+16,2026-03-21,CLI006,credito,3426.23,Streaming,assinatura
+44,2026-03-15,CLI002,credito,2221.22,Supermercado,compra
+47,2026-01-06,CLI004,credito,4926.69,Streaming,assinatura
+39,2026-02-18,CLI002,debito,1222.56,Streaming,assinatura
+5,15/01/2026,CLI003,credito,3796.45,Transferência recebida,transferencia
+12,2026-05-22,CLI002,debito,4926.26,Salário mensal,salario
+6,2026-06-14,CLI003,pix,1396.58,Supermercado,compra
+33,2026-03-17,CLI007,debito,4822.17,Supermercado,compra
